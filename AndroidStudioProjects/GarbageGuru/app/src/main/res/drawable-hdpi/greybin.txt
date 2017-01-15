@@ -1,0 +1,856 @@
+Bathroom scale	
+metal scale
+glass scale
+kitchen scale
+Furnace filter	
+Flower (artificial)	
+fake
+arrangements
+Electric Appliances
+blender
+hair dryer
+curling iron
+blow dryer
+electric toothbrush
+shredder
+coffee maker
+kettle
+food processor
+juicer
+electric can opener
+electric razor
+indoor grill
+Light bulbs
+incandescent
+halogen
+flood light
+LED
+pot light
+pot lights
+flood light
+flood lights
+Mylar paper
+filmstatic
+matte
+overhead
+Plant hanging basket	
+Rock salt
+road salt
+de-icer
+ice salt
+Pool noodle
+flotation
+floatation
+Plant tray	bottom
+drip tray
+Paint tray and liner (plastic)	
+Electronic Accessory
+coaxial cable
+headphone
+remote control
+battery charger
+electronic accessories
+calculator
+Broken glass
+shard
+shattered glass
+broken window
+wine glass
+drinking glass
+glass measuring cup
+Biodegradable plastic
+plate
+cutlery
+fork 
+knives
+knife
+spoon
+bag
+degradable plastic
+Talcum powder
+gold bond
+baby powder
+Plastic pail  (greater than five litres in size)	
+pails
+plastic drums
+driveway sealant container
+driveway tar container
+plastic paint pails
+plastic cat litter box
+Plastic water jug
+15-litre
+bottles
+single use
+no deposit
+PET
+Smoke detector
+smoke alarm
+detectors
+alarms
+carbon monoxide detector
+Clock
+clock radio
+alarm clock
+Colostomy bag	
+Medical Waste
+Healthcare Waste
+cast
+splint
+support
+catheters
+dialysis waste
+colostomy bag
+gastric tube
+nasal tube
+IV bag
+IV tubing
+sponge
+home health care waste
+Gastric and nasal tubes	
+IV bag and tubing	
+Catheter
+catheter bag
+catheter line
+Dialysis waste
+dialysis tube
+tubing
+dialysis bag
+Bandage and gauze
+Band-aid
+bandaids
+Cookie bag	
+Coat hanger
+clothes hanger
+wire hanger
+plastic hanger
+hangers
+coathanger
+Dry cleaning bag
+polyethylene
+Milk bag
+plastic bags
+beverages
+Plastic cereal and cracker box liner
+boxes
+Bubbled plastic packaging	
+protective
+bubble wrap
+wrapping
+plastic
+bubble envelopes
+Skateboard
+skate board
+Pad from meat tray
+absorbent
+Fireplace or bbq ashes (cold)
+ashes
+fireplace ash
+Plastic food wrap
+plastic film
+wrapping
+saran wrap
+food wrap
+cling wrap
+shrink wrap
+Elastic band
+rubber band
+Twist tie
+Staple
+fastener
+wire
+florists wire
+milk bag tag
+bread bag tag
+plastic tag
+Vacuum cleaner bag and contents
+bags
+vacuum bag
+vacuum cleaner bag
+Potato chip bag
+snack food bags
+packaging
+paper chip bag
+Wallpaper	paper
+Toothpaste tube
+tooth paste tube
+Wax paper
+wrap
+wrapping
+sandwich wrap
+parchment
+Frozen food box
+paper
+boxes
+boxboard
+tv dinner
+cardboard
+Empty large plastic bags
+mulch bag
+sand bag
+triple mix
+fertilizer bag
+soil bag
+peat moss bag
+plastic bag
+dry-cleaning bags
+dry cleaning bags
+dry cleaning bag
+dry-cleaning bag
+Broom
+mop
+Facial cleansing cloth
+make up removing cloths
+Power tools
+drill
+saw
+sander
+Cotton ball
+cotton swab
+cotton balls
+Fuses	
+Inhaler (empty)
+vicks
+ventolin
+puffer
+Ribbons
+bow
+Burlap	
+Charcoal/Lava Rock	briquette
+lava rock
+Bread tag
+milk tag	
+Rope
+twine
+string
+Blueprint paper 
+Blueprint	
+Fireworks (used)
+fire cracker
+firecrackers
+pyrotechnics
+rockets
+sparklers
+illuminations
+Extension cords	
+Lotion (cosmetics contents)
+moisturizer
+creams
+facial
+eye make up
+eye make-up
+Silage wrap	
+Picture negatives and film
+photographic film
+photo negatives
+Drum (plastic)
+barrel
+Shower curtain
+shower liner
+Sticker
+labels
+Toothpick	tooth picks
+toothpick
+Trophy
+trophies
+Helmet
+helmets
+Plastic wrap
+Saran wrap
+plastic film
+packaging wrap
+Light Fixture
+Lamps
+lamp
+lighting
+light fixtures
+solar lamps
+solar garden lamps
+solar garden lights
+floor lamp
+Tape
+duct tape
+electrical tape
+masking tape
+scotch tape
+painters tape
+tape dispenser
+Toiletries
+toothbrush
+razor
+soap
+emery board
+disposable razor
+Chopsticks
+chop stick
+wooden chopstick
+Skewers
+wooden skewers
+BBQ skewers
+Aluminum foil
+metal
+alfoil
+alufoil
+tinfoil
+wrap
+metallic
+Cigarette
+cigarette butt and ash
+cigaret
+smoke
+tobacco
+ashes
+cigarettes
+Disposable mop sheet
+Swiffer
+disposable cleaning sheet
+Dryer lint	
+Blister packaging (gum and lozenges)	
+Gift wrapping paper (metallic)
+wrap
+Baby wipe
+wet nap
+wet wipe
+towelette
+cleansing sheet
+wipes
+diaper wipe
+baby wipes
+Condom
+rubber
+contraceptive
+Trojan
+safe
+Durex
+prophylactic
+Q-tip
+Q-Tips
+cotton-tipped swab
+ear swabs
+ear cleaners
+cotton swabs
+cotton buds
+q tip
+q tips
+Feathers	
+Waxed cardboard box
+wax board
+carton
+wax carton
+detergent box
+String lights
+holiday lights
+Christmas lights
+festival lights
+light strings
+Water Filters
+brita filter
+carbon water filter
+carbon
+Garden Hose
+Hose
+rubber hose
+vinyl hose
+Packaging peanuts (foam)
+Styrofoam
+polystyrene
+packing foam chips
+Hair brush
+hair brushes
+Juice drink pouch
+stand-up flexible pouches
+packets
+Capri-Sun
+bags
+beverages
+Bibo
+Capri Sun
+Hi-C
+fruit juice
+Kool-Aid Jammer
+Sports drink bottle (hard plastic or other)
+bottle
+containers
+Nalgene
+reusable
+hard plastic
+refillable
+baby bottle
+metal
+Gatorade
+Deodorant
+deodorant container
+antiperspirant
+tube
+Photographs
+photos
+pictures
+pics
+prints
+x-rays
+photographic paper
+Pet food bag
+bags
+Hair
+fur
+pet fur
+pet hair
+dog hair
+poisonous plants
+noxious plants
+invasive plants
+giant hogweed
+hogweed
+poison ivy
+dog strangling vine
+bicycle inner tube
+bike tire
+inner tube
+rubber inner tube
+ant trap	
+garburators	
+glade air freshener
+solid air freshener
+glade air fresheners
+solid air fresheners
+retort pouches
+stand up pouches
+stand-up pouches
+slide projection carousel	
+extension cord
+extension cords
+metropass	
+glass jar lid
+glass bottle lid
+rubber dropper lid
+glass jar lids
+glass bottle lids
+rubber dropper lids
+Lighter
+lighters
+zippo
+bic
+Balloons
+party decoration
+Butcher paper (for wrapping meat)
+wrap
+packaging
+Butter wrapper
+wrap
+Candle wax
+tea light
+Candy wrapper
+wrapping
+wrappers
+Carbon paper
+carbon tissue
+carbonic paper
+Cellophane
+wrapping
+wrap
+Chalk
+writing instrument
+Computer disc
+floppy
+discs
+disk
+tapes
+VHS
+beta
+DVDs
+video games
+Foil seal
+plastic seals
+Toothbrush
+tooth brush
+Music record
+audio tape
+compact disc
+LP
+albums
+CDs
+video cassette
+Scouring pad
+steel wool
+cleaning pads
+SOS pad
+Soap
+liquid soap
+bar of soap
+Dental floss
+nylon
+thread
+Sponge
+sponges
+pot scrubber
+scrunge
+scouring pad
+Plastic sandwich bag
+Ziploc
+baggies
+plastic storage bags
+reclosable
+resealable
+re-sealable
+ziploc bag
+Plastic straw
+straws
+plastic stir sticks
+coffee creamers
+coffee creamer containers
+Lollipop stick
+sticks
+lollypop
+Latex rubber gloves
+rubber glove
+Florist foam
+styrofoam
+Takeout coffee cup
+cups
+take-out
+paper coffee cups
+disposable
+paper
+Dixie
+beverages
+Tim Hortons cup
+plastic
+wax lined coffee cup
+wax coated coffee cup
+hot drink paper cup
+Beer caps
+beer bottle caps
+Plastic food bag
+bags
+plastic bag
+bread bag
+plastic produce bag
+coffee bag
+produce bag
+Dryer sheets
+Bounce
+Downey
+Fleecy
+fabric softener sheet
+anti-static sheet
+Aquarium	fish bowl
+fish tank
+Snack food bag
+bags
+packaging
+Frozen vegetable bag
+plastic bags
+polyethylene
+Chewing gum
+bubble
+Plastic frozen food trays	
+Flashlight (without battery)
+empty flashlight
+flashlight
+flashlight without batteries
+Toilet seat	
+Plastic newspaper bag
+plastic flyer bag
+flyer bag
+newspaper wrapper
+newspaper bag
+Microwave trays
+oven food trays
+microwave container
+Coffee disc
+tassimo
+keurig
+T-discs
+k cups
+coffee pod
+coffee pods
+Plastic pipe
+pvc
+pex
+Water Bed Bladder	
+Tent	
+Wooden crate
+clementines crate
+wooden basket
+wooden fruit basket
+Paint Brush
+paintbrush
+paint brushes
+Rubber sheet
+Plastic sheet
+drop sheet
+vapour barrier
+tarp
+polyethylene plastic sheet
+Bird cage	
+Nylons
+pantyhose
+panty hose
+Clay flower pot
+flowering
+clay planter flower pots
+Shovel (plastic)
+plastic snow shovel
+Electrical Wire
+wiring
+cable
+Caulking tube
+caulk
+Dentures
+false teeth
+Garden sprinkler	
+Stuffed animal
+teddy bear
+doll
+Posters (Laminated)	
+Air filter	
+Gloves
+baseball
+base ball glove
+sports glove
+garden gloves
+work gloves
+matches	
+manual typewriter
+cutting board
+wooden cutting board
+plastic cutting board
+three ring binder
+binder
+debit card
+credit card
+plastic gift card
+picnic cooler
+cooler
+plastic picnic cooler
+plastic cooler
+plastic weight
+plastic sand filled weight
+sand filled weight
+plastic dumbbell
+Binder
+three-ring
+bookbinder
+Board game
+puzzle
+Markers
+marker pens
+marking pens
+writing instrument
+crayons
+Popsicle stick (clean)
+wood
+wooden
+Yarn
+threads
+cotton fibre
+fiber
+flaxen thread
+spun wool
+Pen
+pens
+writing instruments
+Pencil
+pencils
+writing instruments
+Vase
+glass vase
+porcelain vase
+crystal vase
+Bed Sheet
+bed linen
+sheets
+Hearing aid	
+Sports equipment
+soccer
+base ball
+basketball
+golf ball
+foot ball
+tennis ball
+bowling ball
+volley ball
+tennis
+badminton
+racquetball
+racket
+lacrosse stick
+racquet
+ice skates
+in line skates
+inline
+in-line
+roller
+rollerskates
+figure skates
+hockey skates
+roller blades
+Ornament
+christmas tree ornaments
+decoration
+Clothes Peg
+clothes Pin	
+Curtain rod	
+Backpack
+book bag
+school bag
+back pack
+Drum (musical)
+instrument
+Shoes
+shoe
+runners
+sneaker
+boot
+boots
+Fabric
+bedding
+linen
+cloth napkin
+Clothing (accessories)
+clothes
+footwear
+shoe
+coat
+dress
+hat
+scarf
+scarves
+shirt
+sweater
+pant
+purses
+hand bag
+umbrella
+Jewellery
+costume jewellery
+watches
+tie clips
+cuff links
+earrings
+necklace
+rings
+Window Covering
+blinds
+curtains
+drapes
+rods
+Pillows
+Cushions	
+Tupperware
+rubbermaid
+Toaster
+toaster oven
+Small household appliance
+household
+blender
+food processor,
+toaster
+paper shredder
+Holiday Decoration
+wreath
+garland
+bulbs
+tinsel
+Art and Craft Material
+button, sequin
+bead
+feather
+zipper
+crayon
+marker
+magnet
+key
+plasticine
+playdo
+modelling clay
+play doh
+crafts
+picture frame
+Housewares
+dishes
+cutlery
+kitchen
+Tools
+hammer
+screwdriver
+wrench
+pliers
+saw
+chisel
+Toys (plastic or other)
+children's toy
+Drinking glass
+cup
+Metal cookware
+cooking
+pot
+pan
+kitchen utensil
+flatware
+tray
+frying
+baking tray
+pots
+pans
+Cookware	cups
+plates
+mugs
+tableware
+Pyrex
+pyrex
+stoneware
+china
+visionware
+earthenware
+pottery
+ceramic dishes
+dinner plate
+mug
+microwave glass
+Linens
+textiles
+bedding
+quilts
+duvets
+goose
+down duvets
+flags
+Towel
+textiles
+towels
+microfibre cloths
+microfiber cloths
+Eye glasses
+eyeware
+eyeglasses
+glasses
+sun glasses
+sunglasses
+Wine cork
+corks
+stoppers
+Mirror
+mirrors
+glass
+Popcorn maker	
+Kitchen utensil
+parring knife
+pearing knife
+paring knife
+sharp knife
+utensil
+carving knife
+knives
+fork
+spoon
+can opener
+spatula
+Nail 
+Screw
+nails
+screws
+bolts
+nuts
+Mirror
+Coffee maker	
+Ceramic dish
